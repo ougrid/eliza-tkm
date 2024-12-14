@@ -9,7 +9,7 @@ packages/plugin-buttplug/intiface-engine
 
 .DS_Store
 
-dist/
+dist/pnpm build
 # Allow models directory but ignore model files
 models/*.gguf
 
